@@ -1,0 +1,43 @@
+{
+  "id": "1",
+  "name": "Eve",
+  "children": [
+    {
+      "id": "2",
+      "name": "Cain"
+    },
+    {
+      "id": "3",
+      "name": "Seth",
+      "collapsed": true,
+      "children": [
+        {
+          "id": "7",
+          "name": "Enos"
+        },
+        {
+          "id": "8",
+          "name": "Noam"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Abel"
+    },
+    {
+      "id": "5",
+      "name": "Awan",
+      "children": [
+        {
+          "id": "9",
+          "name": "Enoch"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Azura"
+    }
+  ]
+}
